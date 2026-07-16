@@ -1,6 +1,6 @@
 # Hi, I'm Jack Adams-Lovell 👋
 
-**Security developer** studying Cyber Security at Thompson Rivers University, based in British Columbia, Canada.
+**Security developer** studying Cyber Security at Thompson Rivers University, based in British Columbia, Canada. 🇨🇦
 
 I build security tooling — things that watch networks, audit supply chains, and break applications on purpose so they can be fixed. Most of my work lives in the terminal.
 
